@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hope1053)](https://github.com/hope1053/github-readme-stats)
+
 <!--
 **hope1053/hope1053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
